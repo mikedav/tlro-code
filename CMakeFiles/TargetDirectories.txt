@@ -1,7 +1,0 @@
-/home/mikhail/idle/src/CMakeFiles/install/strip.dir
-/home/mikhail/idle/src/CMakeFiles/install/local.dir
-/home/mikhail/idle/src/CMakeFiles/install.dir
-/home/mikhail/idle/src/CMakeFiles/list_install_components.dir
-/home/mikhail/idle/src/CMakeFiles/rebuild_cache.dir
-/home/mikhail/idle/src/CMakeFiles/edit_cache.dir
-/home/mikhail/idle/src/CMakeFiles/idle.dir
