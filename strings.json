@@ -1,0 +1,36 @@
+{
+	"not_found" : {
+		"en" : "MISSING"
+	},
+	"app_name" : {
+		"en" : "Yadle"
+	},
+	"cheat_sheet" : {
+		"en" : "Cheat Sheet"
+	},
+	"main_window" : {
+		"en" : "Main"
+	},
+	"manual_increase" : {
+		"en" : "Increase"
+	},
+	"cheat_add" : {
+		"en" : "Add"
+	},
+	"cheat_set" : {
+		"en" : "Set"
+	},
+	"exit" : {
+		"en" : "Quit"
+	},
+	"add_slider" : {
+		"en" : "Value to add"
+	},
+	"set_slider" : {
+		"en" : "Value to set"
+	},
+	"log_window" : {
+		"en" : "Logs"
+	}
+
+}

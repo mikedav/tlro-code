@@ -1,0 +1,16 @@
+{
+	"update_every_x_ms" : 50,
+	"global_output_factor" : 1, 
+	"global_period_penalty_factor" : 1,
+	"base_gen_power" : 1,
+	"base_gen_period_penalty" : 1,
+	"gen_abc_price_factor" : 10,
+	"gen_abc_output_factor" : 10,
+	"gen_num_price_factor" : 100,
+	"gen_type_npf_factor" : 1,
+	"gen_type_npf_power" : 1.2,
+	"gen_type_period_penalty_increment" : 3,
+	"cur2_factor" : 1,
+	"cur3_power" : 0.5,
+	"manual_earnings": 1
+}

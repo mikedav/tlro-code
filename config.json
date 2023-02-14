@@ -1,0 +1,9 @@
+{
+	"lang" : "en",
+	"debug_window" : true,
+	"fullscreen" : true,
+	"enable_cheating" : true,
+	"w" : 1920,
+	"h" : 1080,
+	"font_scale" : 1.4
+}
