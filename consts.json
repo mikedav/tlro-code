@@ -1,7 +1,7 @@
 {
 	"update_every_x_ms" : 50,
 	"global_output_factor" : 1, 
-	"global_period_penalty_factor" : 1,
+	"global_period_penalty_factor" : 20,
 	"base_gen_power" : 1,
 	"base_gen_period_penalty" : 1,
 	"gen_abc_price_factor" : 10,

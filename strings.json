@@ -31,6 +31,39 @@
 	},
 	"log_window" : {
 		"en" : "Logs"
+	},
+	"pause_button" : {
+		"en" : "Pause"
+	},
+	"unpause_button" : {
+		"en" : "Unpause"
+	},
+	"purchase_next_gen_num_button" : {
+		"en" : "Next tier"
+	},
+	"purchase_next_gen_abc_button" : {
+		"en" : "Next type"
+	},
+	"menu_window_title" : {
+		"en" : "Menu"
+	},
+	"menu_window_button" : {
+		"en" : "Menu"
+	},
+
+	
+	"curious_person_name" : {
+		"en" : "Curious person"
+	},
+	"curious_person_flavour" : {
+		"en" : "He do be curious"
+	},
+
+	"truth_seeker_name" : {
+		"en" : "Truth seeker"
+	},
+	"truth seeker" : {
+		"en" : "He do be seeking truth"
 	}
 
 }

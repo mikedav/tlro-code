@@ -169,6 +169,19 @@ idle/fast:
 	$(MAKE) -f CMakeFiles/idle.dir/build.make CMakeFiles/idle.dir/build
 .PHONY : idle/fast
 
+#=============================================================================
+# Target rules for targets named Resources-dependencies
+
+# Build rule for target.
+Resources-dependencies: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Resources-dependencies
+.PHONY : Resources-dependencies
+
+# fast build rule for target.
+Resources-dependencies/fast:
+	$(MAKE) -f CMakeFiles/Resources-dependencies.dir/build.make CMakeFiles/Resources-dependencies.dir/build
+.PHONY : Resources-dependencies/fast
+
 game.o: game.cpp.o
 
 .PHONY : game.o
@@ -196,6 +209,33 @@ game.cpp.s:
 	$(MAKE) -f CMakeFiles/idle.dir/build.make CMakeFiles/idle.dir/game.cpp.s
 .PHONY : game.cpp.s
 
+resource_Resources.o: resource_Resources.cpp.o
+
+.PHONY : resource_Resources.o
+
+# target to build an object file
+resource_Resources.cpp.o:
+	$(MAKE) -f CMakeFiles/idle.dir/build.make CMakeFiles/idle.dir/resource_Resources.cpp.o
+.PHONY : resource_Resources.cpp.o
+
+resource_Resources.i: resource_Resources.cpp.i
+
+.PHONY : resource_Resources.i
+
+# target to preprocess a source file
+resource_Resources.cpp.i:
+	$(MAKE) -f CMakeFiles/idle.dir/build.make CMakeFiles/idle.dir/resource_Resources.cpp.i
+.PHONY : resource_Resources.cpp.i
+
+resource_Resources.s: resource_Resources.cpp.s
+
+.PHONY : resource_Resources.s
+
+# target to generate assembly for a file
+resource_Resources.cpp.s:
+	$(MAKE) -f CMakeFiles/idle.dir/build.make CMakeFiles/idle.dir/resource_Resources.cpp.s
+.PHONY : resource_Resources.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -209,9 +249,13 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... idle"
+	@echo "... Resources-dependencies"
 	@echo "... game.o"
 	@echo "... game.i"
 	@echo "... game.s"
+	@echo "... resource_Resources.o"
+	@echo "... resource_Resources.i"
+	@echo "... resource_Resources.s"
 .PHONY : help
 
 

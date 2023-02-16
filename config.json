@@ -1,9 +1,11 @@
 {
 	"lang" : "en",
 	"debug_window" : true,
-	"fullscreen" : true,
+	"fullscreen" : false,
 	"enable_cheating" : true,
+	"hide_manual" : false, 
+	"font_size" : 28,
+	"small_font_size" : 18,
 	"w" : 1920,
-	"h" : 1080,
-	"font_scale" : 1.4
+	"h" : 1080
 }

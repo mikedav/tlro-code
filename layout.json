@@ -1,4 +1,9 @@
 {
-    "cheat_sheet_width" : 600,
-    "cheat_sheet_height" : 100
+    "cheat_sheet_width" : 860,
+    "cheat_sheet_height" : 125,
+    "menu_window_width" : 300,
+    "menu_window_height" : 250,
+    "menu_button_width" : 200,
+    "gen_child_padding" : 30,
+    "scroll_x_delta" : 200
 }

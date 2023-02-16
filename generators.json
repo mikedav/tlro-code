@@ -1,0 +1,186 @@
+[
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			}
+
+		],
+	},
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			}
+
+		],
+	},
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			}
+
+		],
+	},
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			}
+
+		],
+	},
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			}
+
+		],
+	},
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			}
+
+		],
+	},
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			}
+
+		],
+	},
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			}
+
+		],
+	},
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			}
+
+		],
+	},
+	{
+		"name" : "initiates",
+		"generators" : [
+			{
+				"name" : "curious_person",
+				"illustration" : "curious.jpg",
+			},
+			{
+				"name" : "truth_seeker",
+				"illustration" : "truthseeker.jpg"
+			}
+
+		],
+	},
+]
